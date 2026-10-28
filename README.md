@@ -11,6 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=abdalraof-albarbar&style=for-the-badge&color=0ea5e9" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/sponsors/abdalraof-albarbar"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0f172a" alt="Sponsor abdalraof-albarbar" /></a>
+</p>
+
 ## About Me
 
 I build practical apps, dashboards, stores, and clean user experiences. I enjoy taking an idea from a sketch to a product people can open, use, and improve.
